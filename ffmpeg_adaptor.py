@@ -65,7 +65,6 @@ class FFMpeg_adaptor():
         #os.remove(trim_file)        
         return out,err
     def trim(self,s_time,t_time,log_file = "_log",out_filename = "tmp.mp4"):
-
         trim_file = out_filename
         
         tmp_trim_video = "trim.mp4"
