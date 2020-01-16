@@ -1,3 +1,2 @@
 # videoclipper
-執行 videoclipper
- python videoclipper.py
+執行 videoclipper : python videoclipper.py
