@@ -1,4 +1,4 @@
-# videoclipper
+# videoclipper (use python 3.5)
 
 
 1. 執行 videoclipper : python videoclipper.py
